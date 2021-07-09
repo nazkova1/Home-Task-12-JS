@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+ol { 
+    border: 2px solid aqua;
+    width: 100px;
+}
+
+li {
+    font-size: 25px;
+}
